@@ -1,2 +1,2 @@
-# NLP-Twitter-Disaster-tweets-classification
-The competition datasets conatin about 10,000 tweets from twitter. Twitter has always been an important communication portal for people all over the world. People use twitter to talk about real-world incidents/accidents they’re observing in real-time. We, humans may can easily decide whether a person is tweeting about real disaster or not. But a machine needs some sophisticated model and cleaned data to do that. In this project I will try to build a model which will analyze the datasets provided and give verdict if the tweet is depicting a real disaster (1) or not (0).
+# NLP-Disaster-Tweet-Classification
+Prediction if the tweet is about disaster or not from about 10,000 tweets. Text analysis.
